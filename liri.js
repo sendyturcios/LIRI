@@ -27,7 +27,11 @@ var liriCommand = process.argv[2];
 var userInput = process.argv[3];
 
 
-
+// need to insert code to log when user does not specify input 
+//default song in random.txt file 
+//default movie - Mr. Nobody 
+//If you haven't watched "Mr. Nobody," then you should: http://www.imdb.com/title/tt0485947/
+//It's on Netflix!
 
 
 
