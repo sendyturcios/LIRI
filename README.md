@@ -56,8 +56,8 @@ Using the fs Node package, LIRI will take the text inside of random.txt and then
 <li>Type node liri.js movie-this 'movie name here' in your terminal/bash window
 
 <li>This will show the following information about the movie: 
+
  <ul>
- 
 Title of the movie
 
 Year the movie came out
